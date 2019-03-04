@@ -1,8 +1,10 @@
-cron-editor
+cron-editor(Do Not Use This Fork)
 ===
 
 [![Build Status](https://travis-ci.org/claudiuconstantin/cron-editor.svg?branch=master)](https://travis-ci.org/claudiuconstantin/cron-editor)
 [![npm version](https://badge.fury.io/js/cron-editor.svg)](https://badge.fury.io/js/cron-editor)
+
+Goal of this fork is adding bootstrap 4 suppport.
 
 `cron-editor` is library that helps the user graphically build a CRON expression (quartz format only) in an Angular application. It is a fork of [angular-cron-gen](https://github.com/vincentjames501/angular-cron-gen) for AngularJS, ported to Angular 2+ and heavily improved.
 
